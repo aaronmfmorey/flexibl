@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="1.5" width="24" height="24" color="#000000">
+  <defs>
+    <style>.cls-63ce7509ea57ea6c8380069d-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}</style>
+  </defs>
+  <circle class="cls-63ce7509ea57ea6c8380069d-1" cx="12" cy="3.41" r="1.91"></circle>
+  <polyline class="cls-63ce7509ea57ea6c8380069d-1" points="12.96 19.64 12.96 17.73 17.73 15.82 17.73 14.86 13.91 14.86 13.91 7.23 10.09 7.23 10.09 22.5 8.18 22.5"></polyline>
+  <line class="cls-63ce7509ea57ea6c8380069d-1" x1="10.09" y1="7.23" x2="2.45" y2="7.23"></line>
+  <line class="cls-63ce7509ea57ea6c8380069d-1" x1="13.91" y1="7.23" x2="21.55" y2="7.23"></line>
+</svg> 

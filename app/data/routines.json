@@ -1,0 +1,44 @@
+{
+  "routines": [
+    {
+      "id": "morning-wakeup",
+      "name": "Morning Wake-up",
+      "description": "A gentle routine to start your day with increased flexibility and energy",
+      "duration": "10 minutes",
+      "difficulty": "Beginner",
+      "focus": ["Neck", "Shoulders", "Back", "Hips"]
+    },
+    {
+      "id": "desk-stretch",
+      "name": "Desk Worker Relief",
+      "description": "Perfect for those who spend long hours at a desk, targeting common tension areas",
+      "duration": "15 minutes",
+      "difficulty": "Beginner",
+      "focus": ["Neck", "Shoulders", "Wrists", "Lower Back"]
+    },
+    {
+      "id": "full-body",
+      "name": "Full Body Flexibility",
+      "description": "Comprehensive routine covering all major muscle groups",
+      "duration": "30 minutes",
+      "difficulty": "Intermediate",
+      "focus": ["Full Body", "Major Joints", "Core"]
+    },
+    {
+      "id": "pre-workout",
+      "name": "Pre-Workout Warm-up",
+      "description": "Dynamic stretches to prepare your body for exercise",
+      "duration": "15 minutes",
+      "difficulty": "Intermediate",
+      "focus": ["Dynamic Stretching", "Mobility", "Warm-up"]
+    },
+    {
+      "id": "post-workout",
+      "name": "Post-Workout Recovery",
+      "description": "Cool-down stretches to aid recovery and prevent stiffness",
+      "duration": "20 minutes",
+      "difficulty": "Beginner",
+      "focus": ["Recovery", "Flexibility", "Cool-down"]
+    }
+  ]
+} 
