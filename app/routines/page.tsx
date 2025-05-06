@@ -1,5 +1,6 @@
 import Image from "next/image";
 import routinesData from "../data/routines.json";
+import Link from "next/link";
 
 export default function Routines() {
   return (
@@ -15,14 +16,17 @@ export default function Routines() {
             className="text-[#2E4F2E]"
           />
         </div>
-        <div className="mt-8 space-y-4">
+        <div className="mt-8 flex flex-col gap-4">
           {routinesData.routines.map((routine) => (
-            <button
-              key={routine.id}
-              className="w-full px-8 py-3 bg-[#2E4F2E] text-white rounded-lg hover:bg-[#1a2f1a] transition-colors"
+            <Link 
+              key={routine.id} 
+              href={`/routines/${routine.id}`}
+              className="block"
             >
-              {routine.name}
-            </button>
+              <button className="w-full px-8 py-3 bg-[#2E4F2E] text-white rounded-lg hover:bg-[#1a2f1a] transition-colors">
+                {routine.name}
+              </button>
+            </Link>
           ))}
         </div>
       </div>
